@@ -9,6 +9,10 @@ The dashboard transforms logistics data into actionable visual insights through 
 The goal of this project is to provide a centralized analytical view of logistics operations and help users monitor operational performance and identify areas requiring attention.
 
 ---
+## Dashboard Preview
+
+[![Logistics-Operations-Delivery-Performance-Analytics-Dashboard-Power-BI]
+
 
 ## 🎯 Business Objectives
 
