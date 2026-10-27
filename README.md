@@ -17,6 +17,8 @@ The goal of this project is to provide a centralized analytical view of logistic
 
 [![Logistics-Operations-Delivery-Performance-Analytics-Dashboard-Power-BI](Screenshots/Logistics-dashboard.png)](https://github.com/Sathiyamoorthi-DA/Logistics-Operations-Delivery-Performance-Analytics-Dashboard-Power-BI/blob/main/Screenshots/Logistics%20(4).png)
 
+[![Logistics-Operations-Delivery-Performance-Analytics-Dashboard-Power-BI](Screenshots/Logistics-dashboard.png)]
+
 
 
 ## 🎯 Business Objectives
